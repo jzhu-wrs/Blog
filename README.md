@@ -1,1 +1,2 @@
-![test image](images/6adc522ejw1dx6llioqv2j.jpg  "lishui")
+
+[获取gcc编译器中已定义的宏](gcc_dm_option.md)
